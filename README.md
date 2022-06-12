@@ -1,16 +1,17 @@
-### Hi there 👋
+## Whoami 
 
-<!--
-**hyunzzzin/hyunzzzin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ - Daejeon Univ. Developer 
+ - 2021 Daejeon University Coding Competition Grand Prize
+ - interest in react , javascript , typescript , mysql
+ 
+For more information, visit [hyunjin`s portfolio](https://hyunzzin.netlify.app/)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact
+  - instagram : [@hyunzzzin](https://www.instagram.com/hyunzzz1n/)
+  - email : zin-@kakao.com
+
+
+## Github status
+
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyunzzzin)](https://github.com/hyunzzzin/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyunzzzin&layout=compact)](https://github.com/hyunzzzin/github-readme-stats)

@@ -14,4 +14,4 @@ For more information, visit [hyunjin`s portfolio](https://hyunzzin.netlify.app/)
 
 ## Github status
 
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyunzzzin)](https://github.com/hyunzzzin/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyunzzzin&layout=compact)](https://github.com/hyunzzzin/github-readme-stats)
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyunzzzin)](https://github.com/hyunzzzin/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyunzzzin&layout=compact)](https://github.com/hyunzzzin/github-readme-stats)

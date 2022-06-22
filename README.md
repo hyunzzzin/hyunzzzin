@@ -1,8 +1,8 @@
 ## Whoami 
 
- - Daejeon Univ. Developer 
- - 2021 Daejeon University Coding Competition Grand Prize
- - interest in react , javascript , typescript , mysql
+ - Daejeon Univ. Developer.
+ - 2021 Daejeon University Coding Competition Grand Prize.
+ - interest in react , javascript , typescript , mysql.
  
 For more information, visit [hyunjin`s portfolio](https://hyunzzin.netlify.app/) .
 

@@ -8,7 +8,7 @@ For more information, visit [hyunjin`s portfolio](https://hyunzzin.netlify.app/)
 
 
 ## Contact
-  - instagram : [@hyunzzzin](https://www.instagram.com/hyunzzz1n/)
+  - instagram : [@hyunzzzin](https://www.instagram.com/hz1nnnn/)
   - email : zin-@kakao.com
 
 

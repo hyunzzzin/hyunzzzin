@@ -1,6 +1,6 @@
 ## Whoami 
 
- - Daejeon Univ. Developer.
+ - Frontend Develop. IT-
  - 2021 Daejeon University Coding Competition Grand Prize
  - interest in react , javascript , typescript , mysql.
  

@@ -1,6 +1,6 @@
 ## Whoami 
 
- - Frontend Develop. IT inc.
+ - Frontend Develop. IT inc
  - 2021 Daejeon University Coding Competition Grand Prize.
  - interest in react , javascript , typescript , mysql.
  

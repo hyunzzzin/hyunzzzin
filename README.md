@@ -1,11 +1,14 @@
 ## Whoami 
 
  - Frontend Develop. IT inc
- - 2021 Daejeon University Coding Competition Grand Prize.
+ - I'm interested in iot communication and I'm studying server construction through Node.js. 
  - interest in react , javascript , typescript , mysql.
  
 For more information, visit [hyunjin`s portfolio](https://hyunzzin.netlify.app/)
 
+## Production
+ - Meterium
+ - Youngit
 
 ## Contact
   - instagram : [@hyunzzzin](https://www.instagram.com/hz1nnnn/)

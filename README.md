@@ -7,7 +7,7 @@
 For more information, visit [hyunjin`s portfolio](https://hyunzzin.netlify.app/)
 
 ## Production
- - Meterium
+ - Meterarium
  - Youngit
 
 ## Contact

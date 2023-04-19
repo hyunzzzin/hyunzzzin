@@ -1,8 +1,10 @@
 ## Whoami 
 
- - Frontend Develop. IT inc
- - I'm interested in iot communication and I'm studying server construction through Node.js. 
- - interest in react , javascript , typescript , mysql.
+ - I work as a developer at YOUNG-IT.
+ - interest in reactjs , javascript , typescript , mysql.
+ - Implement remote meter reading system using lwm2m international communication standard.
+ - My curious goal is to make a big contribution to constructing a digital twin.
+ 
  
 For more information, visit [hyunjin`s portfolio](https://hyunzzin.netlify.app/)
 
@@ -11,11 +13,11 @@ For more information, visit [hyunjin`s portfolio](https://hyunzzin.netlify.app/)
  - Youngit
  - LWM2M
  - OneM2M
- - Java Califonium
 
 ## Contact
-  - instagram : [@hyunzzzin](https://www.instagram.com/hz1nnnn/)
+  - instagram : [@hyunzzzin](https://www.instagram.com/ahzzzin/)
   - email : zin-@kakao.com
+  - officeEmail: zin@young-it.co.kr
 
 
 ## Github status

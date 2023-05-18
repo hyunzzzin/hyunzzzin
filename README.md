@@ -15,7 +15,7 @@ For more information, visit [hyunjin`s portfolio](https://hyunzzin.netlify.app/)
  - OneM2M
 
 ## Contact
-  - instagram : [@hyunzzzin](https://www.instagram.com/ahzzzin/)
+  - instagram : [@ahzzzin](https://www.instagram.com/ahzzzin/)
   - email : zin-@kakao.com
   - officeEmail: zin@young-it.co.kr
 

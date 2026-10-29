@@ -1,8 +1,6 @@
 # Hyunjin Ahn
 
-Full-stack developer building **B2E platforms** — internal systems for people who have to use them every day, not for people who chose to.
 
-Currently at [nepes](https://www.nepes.co.kr/kr/), on the enterprise AI systems team under the CIO org. I design, build, and operate the internal web/mobile platforms used across the group (~4,000 employees), from schema to CI/CD to the LLM layer on top.
 
 ## What I actually do
 
